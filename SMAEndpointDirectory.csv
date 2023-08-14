@@ -1,4 +1,3 @@
-State Medicaid Agency Interoperability and Patient Access Endpoint Directory,,,,,,Patient Access Endpoint Information ,,,,,,,,,,,,,,,,,Provider Directory Endpoint Information ,,,,,,,,,,,,,
 State,Status/API Vendor ,"Information as of date
 (Date Completing the Survey)",Member support contact phone number,Member support contact email,"Do Members (Beneficiaries) have ability to view records of when and with whom their data have been shared via the API?
 (drop-down list)",Production Base URL for Claims Data (CARIN BB),"Production Base URL for Member Health Data (PDex), if different then claims URL","Production Base URL for Formulary, if different then claims URL","Production Base URL for CHIP data, if different then Medicaid","Status
