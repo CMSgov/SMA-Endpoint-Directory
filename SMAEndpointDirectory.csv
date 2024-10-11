@@ -9,7 +9,7 @@ State,Status/API Vendor ,"Information as of date
 (Y/N drop-down list) ","FHIR Version
 (drop-down list)
 ",IG(s) and version(s) Supported URL(s),Does the API use the recommended Implementation Guide (Y/N drop-down list),Please provide a link to the published provider directory on your state website,How often is the published Provider Directory refreshed? ,Sandbox/Test URL,"API registration Info (URL, email)",Developer Support Contact Info
-Alabama,State Developed,5/5/23,334-242-5011,gary.parker@medicaid.alabama.gov,,, , ,,In Development,,,,,,,,,,,"helpdesk@alabamaonehealthrecord.com
+Alabama,State Developed,5/5/2023,334-242-5011,gary.parker@medicaid.alabama.gov,,, , ,,In Development,,https://fhir.alabamaonehealthrecord.com/csp/healthshare/hsods/fhir/r4/metadata,Real-Time,Yes,4.0.1,,Oauth 2.0,,,https://fhir.stage.alabamaonehealthrecord.com/csp/healthshare/hsods/fhir/r4/metadata,"helpdesk@alabamaonehealthrecord.com
 1-844-746-3540","helpdesk@alabamaonehealthrecord.com
 1-844-746-3541", ," FHIR API - In Development, Website URL is active", , ,Yes - Daily (in real time once in API is in Production),No,4.0.1, ,Yes,https://www.medicaid.alabamaservices.org/providerDirectory/,Yes - Daily (in real time), ,"helpdesk@alabamaonehealthrecord.com
 1-844-746-3541","helpdesk@alabamaonehealthrecord.com
