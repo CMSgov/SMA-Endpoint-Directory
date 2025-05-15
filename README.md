@@ -1,5 +1,7 @@
 
-<img src="CMS.png" alt="CMS Logo" width="25%" style="vertical-align: middle;" />
+<div style="background-color: #0071bc; padding: 20px; text-align: center;">
+  <img src="CMS-logo-white.png" alt="CMS Logo" width="25%" style="vertical-align: middle;" />
+</div>
 
 ## State Medicaid Agency (SMA)  Provider Directory and Interoperability Trackers
 

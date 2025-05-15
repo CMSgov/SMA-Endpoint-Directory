@@ -1,3 +1,7 @@
+<div style="background-color: #0071bc; padding: 20px; text-align: center;">
+  <img src="CMS-logo-white.png" alt="CMS Logo" width="25%" style="vertical-align: middle;" />
+</div>
+
 # State Medicaid Agency Provider Directories
 
 This resource provides direct links to each state's Medicaid provider directory. These directories allow beneficiaries, providers, and other stakeholders to search for and find information about healthcare providers who participate in state Medicaid programs.
