@@ -40,9 +40,6 @@ The Endpoint Directory provides a comprehensive listing of electronic service en
 **Audience:**
 - Third-party application developers 
 
-[View the SMA Endpoint Directory](https://github.com/CMSgov/SMA-Endpoint-Directory/blob/main/SMAEndpointDirectory.csv)\
-[Go to Repository](https://github.com/CMSgov/SMA-Endpoint-Directory)
-
 ## Additional Resources
 
 For more information about Medicaid interoperability initiatives, please email us at <SMAEndpointDirectory@cms.hhs.gov>.
