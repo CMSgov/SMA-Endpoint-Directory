@@ -1,5 +1,5 @@
 
-<div style="background-color:rgb(17, 46, 81); padding: 20px; text-align: center;">
+<div style="background-color:#112e51; padding: 20px; text-align: center;">
   <img src="CMS-logo-white.png" alt="CMS Logo" width="25%" style="vertical-align: left;" />
 </div>
 

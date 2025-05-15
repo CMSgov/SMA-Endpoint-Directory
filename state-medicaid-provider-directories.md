@@ -1,4 +1,4 @@
-<div style="background-color: #0071bc; padding: 20px; text-align: center;">
+<div style="background-color: #112e51; padding: 20px; text-align: center;">
   <img src="CMS-logo-white.png" alt="CMS Logo" width="25%" style="vertical-align: middle;" />
 </div>
 
