@@ -1,5 +1,8 @@
 # SMA Directories
-![CMS Logo](CMS.png)
+
+<img src="CMS.png" alt="CMS Logo" width="25%" style="vertical-align: middle;" />
+
+## State Medicaid Agency (SMA) Interoperability and Provider Directories
 
 Welcome to the CMS State Medicaid Agency (SMA) Directories page. This resource provides access to critical directories for interoperability and information exchange.
 
