@@ -7,7 +7,7 @@ Welcome to the CMS State Medicaid Agency (SMA) Directories page. This resource p
 
 ## Available Directories
 
-### [SMA Provider Directory of Directories](state-mediacid-provider-directories.md)
+### [SMA Provider Directory of Directories](state-medicaid-provider-directories.md)
 
 The Medicaid Provider Directory of Directories  serves as a centralized resource that aggregates and indexes multiple provider directories across Medicaid Agencies. 
 
