@@ -43,7 +43,7 @@ The Endpoint Directory provides a comprehensive listing of electronic service en
 
 ## Additional Resources
 
-For more information about Medicaid interoperability initiatives, please email us at SMAEndpointDirectory@CMS.HHS.GOV.
+For more information about Medicaid interoperability initiatives, please email us at <SMAEndpointDirectory@cms.hhs.gov>.
 
 
 
