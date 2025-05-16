@@ -17,7 +17,7 @@ The Medicaid Provider Directory of Directories  serves as a centralized resource
 
 - Consolidated access to multiple Medicaid provider directories
 - Up-to-date provider information
-- Includes requirements from Section 5123 of the [Consolidated Appropriations Act, 2023](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf")
+- Includes requirements from Section 5123 of the [Consolidated Appropriations Act, 2023](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf)
 
 **Audience:**
 
@@ -27,7 +27,7 @@ The Medicaid Provider Directory of Directories  serves as a centralized resource
 
 ### [SMA Endpoint Directory](https://github.com/CMSgov/SMA-Endpoint-Directory)
 
-The Endpoint Directory provides a comprehensive listing of electronic service endpoints for health information exchange within the Medicaid environment. This resource enables systems to discover where and how to send information electronically. It is structured after the [CARIN Alliance FHIR API endpoint directory framework](https://confluence.hl7.org/spaces/FHIR/pages/113672758/Endpoint+directory+implementations+and+frameworks")
+The Endpoint Directory provides a comprehensive listing of electronic service endpoints for health information exchange within the Medicaid environment. This resource enables systems to discover where and how to send information electronically. It is structured after the [CARIN Alliance FHIR API endpoint directory framework](https://confluence.hl7.org/spaces/FHIR/pages/113672758/Endpoint+directory+implementations+and+frameworks)
 
 **Key features:**
 
