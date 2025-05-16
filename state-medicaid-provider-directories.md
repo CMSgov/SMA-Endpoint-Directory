@@ -1,5 +1,5 @@
-7f37c154b020b0dd8e1e0e7b986469e1c5d26019<div style="background-color: #112e51; padding: 20px; text-align: center;">
-  <img src="CMS-logo-white.png" alt="CMS Logo" width="25%" style="vertical-align: middle;" />
+<div style="background-color:#112e51; padding: 20px; text-align: center;">
+  <img src="CMS-logo-white.png" alt="CMS Logo" width="25%" style="vertical-align: left;" />
 </div>
 
 # State Medicaid Agency Provider Directories

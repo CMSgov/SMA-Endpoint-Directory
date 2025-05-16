@@ -17,7 +17,8 @@ The Medicaid Provider Directory of Directories  serves as a centralized resource
 
 - Consolidated State Medicaid provider directory
 - Up-to-date provider information
-- Includes requirements from Section 5123 of the [Consolidated Appropriations Act, 2023](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf)
+- Section 5006 of the [21st Century Cures Act (Cures Act)](https://www.govinfo.gov/content/pkg/PLAW-114publ255/pdf/PLAW-114publ255.pdf) required each state that provides medical assistance on a FFS basis to publish a Provider Directory on the public website of the state agency
+- Section 5123 of the [Consolidated Appropriations Act, 2023](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf) added additional requirements for the Provider Directory
 
 **Audience:**
 
