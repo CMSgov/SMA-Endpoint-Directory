@@ -9,13 +9,13 @@ Welcome to the CMS State Medicaid Agency (SMA) Directories page. This resource p
 
 ## Available Directories
 
-### [SMA Provider Directory of Directories](state-medicaid-provider-directories.md)
+### [SMA Provider Directory](state-medicaid-provider-directories.md)
 
 The Medicaid Provider Directory of Directories  serves as a centralized resource that aggregates and indexes multiple provider directories across Medicaid Agencies. 
 
 **Key features:**
 
-- Consolidated access to multiple Medicaid provider directories
+- Consolidated State Medicaid provider directory
 - Up-to-date provider information
 - Includes requirements from Section 5123 of the [Consolidated Appropriations Act, 2023](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf)
 
@@ -27,12 +27,12 @@ The Medicaid Provider Directory of Directories  serves as a centralized resource
 
 ### [SMA Endpoint Directory](https://github.com/CMSgov/SMA-Endpoint-Directory)
 
-The Endpoint Directory provides a comprehensive listing of electronic service endpoints for health information exchange within the Medicaid environment. This resource enables systems to discover where and how to send information electronically. It is structured after the [CARIN Alliance FHIR API endpoint directory framework](https://confluence.hl7.org/spaces/FHIR/pages/113672758/Endpoint+directory+implementations+and+frameworks)
+The Endpoint Directory provides a comprehensive listing of electronic service endpoints for health information exchange within the Medicaid environment. This resource enables systems to discover where and how to send information electronically. This was developed in response to the [CMS Interoperability and Patient Access Final Rule (CMS-9115-F)](https://www.cms.gov/priorities/key-initiatives/burden-reduction/interoperability/policies-and-regulations/cms-interoperability-and-patient-access-final-rule-cms-9115-f). It is structured after the [CARIN Alliance FHIR API endpoint directory framework](https://confluence.hl7.org/spaces/FHIR/pages/113672758/Endpoint+directory+implementations+and+frameworks)
 
 **Key features:**
 
-- Complete listing of available electronic endpoints for Medicaid Fee-For-Service Provider Directories
-- Complete listing of available electronic endpoints for Medicaid Fee-For-Service Patient Data
+- Complete listing of available electronic endpoints for Medicaid Fee-For-Service Provider Directory APIs
+- Complete listing of available electronic endpoints for Medicaid Fee-For-Service Patient Data APIs
 - Technical details for connecting to each endpoint
 - Authentication and security requirements
 - Supported transaction types and formats
