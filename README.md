@@ -9,14 +9,14 @@ Welcome to the CMS State Medicaid Agency (SMA) Directories page. This resource p
 
 Table of Contents
 
-- [List of SMA Provider Directories](https://smahoney10.github.io/SMA-Endpoint-Directory/#available-directories)
-- [List of SMA Interoperability Endpoints](#sma-endpoint-directory)
+- [Directory of SMA Provider Directories](state-medicaid-provider-directories.md)
+- [Directory of SMA Interoperability Endpoints](#sma-endpoint-directory)
 
-## Available Directories
+## Additional Details
 
 ### [SMA Provider Directory](state-medicaid-provider-directories.md)
 
-The Medicaid Provider Directory of Directories  serves as a centralized resource that aggregates and indexes multiple provider directories across Medicaid Agencies. 
+The SMA Provider Directory serves as a centralized resource that aggregates and indexes multiple provider directories across Medicaid Agencies.
 
 **Key features:**
 
@@ -33,7 +33,8 @@ The Medicaid Provider Directory of Directories  serves as a centralized resource
 
 ### [SMA Endpoint Directory](https://github.com/CMSgov/SMA-Endpoint-Directory)
 
-The Endpoint Directory provides a comprehensive listing of electronic service endpoints for health information exchange within the Medicaid environment. This resource enables systems to discover where and how to send information electronically. This was developed in response to the [CMS Interoperability and Patient Access Final Rule (CMS-9115-F)](https://www.cms.gov/priorities/key-initiatives/burden-reduction/interoperability/policies-and-regulations/cms-interoperability-and-patient-access-final-rule-cms-9115-f). It is structured after the [CARIN Alliance FHIR API endpoint directory framework](https://confluence.hl7.org/spaces/FHIR/pages/113672758/Endpoint+directory+implementations+and+frameworks)
+The Endpoint Directory provides a comprehensive listing of electronic service endpoints for health information exchange within the Medicaid environment. This resource enables systems to discover where and how to send information electronically. This was developed in response to the [CMS Interoperability and Patient Access Final Rule (CMS-9115-F)](https://www.cms.gov/priorities/key-initiatives/burden-reduction/interoperability/policies-and-regulations/cms-interoperability-and-patient-access-final-rule-cms-9115-f). It is structured after the [CARIN Alliance FHIR API endpoint directory framework](https://confluence.hl7.org/spaces/FHIR/pages/113672758/Endpoint+directory+implementations+and+frameworks). For a more comprehensive lising of FHIR Endpoints, including FHIR Endpoints beyond Medcaid Fee-For-Service, please visit [ASTP Lantern](https://www.healthit.gov/topic/interoperability/investments/lantern-project)
+
 
 **Key features:**
 
