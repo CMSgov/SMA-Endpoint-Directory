@@ -7,6 +7,11 @@
 
 Welcome to the CMS State Medicaid Agency (SMA) Directories page. This resource provides access to critical directories for Medicaid Providers, interoperability and information exchange.
 
+Table of Contents
+
+- [List of SMA Provider Directories](https://smahoney10.github.io/SMA-Endpoint-Directory/#available-directories)
+- [List of SMA Interoperability Endpoints](#sma-endpoint-directory)
+
 ## Available Directories
 
 ### [SMA Provider Directory](state-medicaid-provider-directories.md)
